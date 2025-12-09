@@ -1,0 +1,13 @@
+node_modules
+npm-debug.log
+.git
+.gitignore
+.eslintrc
+.eslintignore
+.travis.yml
+test/
+demo.html
+README.md
+LICENSE
+Procfile
+*.md
